@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ET3
+rtmp://live2.ertopen.com/live2/e600
+#EXTINF:0,RIK SAT
+rtmp://cdn106nl.webvideocore.net:1935/pull/epfeao2vff48kskgs4wk
+#EXTINF:0,ALPHA
+http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
+#EXTINF:0,ANT1
+http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
+#EXTINF:0,BOULH
+http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:0,DT
+mmsh://magictvbox.us:200/dt
+#EXTINF:0,E TV
+rtmp://213.16.167.187:1935/live/mpegts_256.stream
+#EXTINF:0,MEGA
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+#EXTINF:0,SKAI
+mmsh://magictvbox.us:200/skai
+#EXTINF:0,ANT1 CYPRUS
+http://videos.ant1.com.cy/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,MEGA CYPRUS
+http://livenews.istoikona.net/livenews.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,MEGA CYPRUS 2
+http://livenews.istoikona.net/livenews.isml/QualityLevels(796000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,SIGMA CYPRUS
+rtmp://217.27.48.131/stream/live
+#EXTINF:0,ACTION 24 ATHENS
+http://206.222.31.146/sport_plus
+#EXTINF:0,ASTRA TV VOLOS
+http://www.astratv.gr:8090/hls/livestream/index.m3u8
+#EXTINF:0,BEST CHANNEL KALAMATA
+http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,BLUE SKY ATHENS
+mmsh://78.47.26.149:8081/blueskytv
+#EXTINF:0,DELTA TV ALEXANDROUPOLH
+http://www.deltatv.gr/live.asx
+#EXTINF:0,DHRAS KOS
+rtmp://www.cityofkos.gr/diras/livetv
+#EXTINF:0,DION TV KATERINI
+http://4.31.30.145:9082
+#EXTINF:0,EXTRA 3 ATHENS
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+#EXTINF:0,IRIDA TV RODOS
+mmsh://212.251.44.111:27030
+#EXTINF:0,KONTRA CHANNEL ATHENS
+rtmp://flashcloud.mediacdn.com/live/kontratv
+#EXTINF:0,KOSMOS TV RODOS
+rtmp://edge.vidblee.com/tvkosmos/mp4:tvkosmos.mp4
+#EXTINF:0,KPHTH TV
+rtmp://live.cretetv.gr/cretetv/myStream
+#EXTINF:0,MESOGEIOS TV KALAMATA
+rtsp://54.246.125.118/mesogeiosTV
+#EXTINF:0,NEA TV CHANIA
+http://srv1.viiideo.gr:1935/hellasonmedia/mp4:neatv/playlist.m3u8
+#EXTINF:0,ORT PYRGOS
+rtmp://media.patrisnews.com:1935/patris/tvstream
+#EXTINF:0,SAMIAKH TV
+rtmp://91.121.107.131/samiaki/samiaki
+#EXTINF:0,STAR TV DRAMAS
+mms://radiofeeds1.mediabox.gr/startv?MSWMExt=.asf
+#EXTINF:0,STAR TV LAMIA
+http://4.31.30.145:9080
+#EXTINF:0,THRAKI NET ALEXANDROUPOLH
+mmsh://golive.onestreaming.com/thrakinet
+#EXTINF:0,TV1 SYROS
+rtmp://159.253.143.17:1935/webcams/msg116s
+#EXTINF:0,TV100 THESSALONIKH
+rtsp://eco.caststream.net/tv100/tv100
+#EXTINF:0,TV4E THESSALONIKI
+rtmp://82.192.84.30:1935/live/myStream.sdp
+#EXTINF:0,ZOUGLA TV ATHENS
+rtmp://cp67108.live.edgefcs.net/live/zouglaradio@15863
+#EXTINF:0,creta tv
+rtmp://srv1.viiideo.gr/hellasonmedia/tvcreta
+

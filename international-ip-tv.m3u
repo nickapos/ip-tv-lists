@@ -1,0 +1,386 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ET3
+rtmp://live2.ertopen.com/live2/e600
+#EXTINF:0,RIK SAT
+rtmp://cdn106nl.webvideocore.net:1935/pull/epfeao2vff48kskgs4wk
+#EXTINF:0,RT-D HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/playlist.m3u8
+#EXTINF:0,LANDSCAPE CHANNEL
+http://130.88.20.233:1237/test.flv
+#EXTINF:0,AL JAZEERA EN
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
+#EXTINF:0,AL JAZEERA English
+rtmp://hd2.lsops.net/live/aljazeer_en_838
+#EXTINF:0,AL JAZEERA AMERICA
+rtmp://ajam.lsops.net/live/ajam_en_584
+#EXTINF:0,ARIRANG
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+#EXTINF:0,BBC NEWS
+rtmp://hd4.lsops.net/live/bbcnews_en_364
+#EXTINF:0,BBC WORLD NEWS
+http://ca-edge-8.cdn2.streamago.tv:80/streamagoedge/1916/809/anjalo_bbc.m3u8
+#EXTINF:0,BFM TV
+mms://vipevenement.yacast.net/bfm_bfmtv
+#EXTINF:0,BLOOMBERG US
+rtmp://cp116697.live.edgefcs.net:80/live/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679
+#EXTINF:0,BLOOMBERG EU
+http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w2110685106_b453000.m3u8
+#EXTINF:0,CCTV NEWS
+http://88.212.11.206:5000/live/22/22.m3u8
+#EXTINF:0,CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,CNN
+rtmp://hd1.lsops.net/live/cnn_en_584
+#EXTINF:0,DAF
+rtmp://fms.daf.tmt.de:1935/live/dafstream100
+#EXTINF:0,DIGI 24
+http://82.76.249.77:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0,DW-TV
+http://dwtvios_europa-i.akamaihd.net/hls/live/200515/dwtveuropa/1/playlist1x.m3u8
+#EXTINF:0,EURONEWS EN
+rtmp://hd1.lsops.net/live/euronews_en_340
+#EXTINF:0,FRANCE 24 EN
+rtmp://stream2.france24.yacast.net/france24_live/en/f24_liveen
+#EXTINF:0,FRANCE 24 EN [2]
+mmsh://stream1.france24.yacast.net/f24_liveen
+#EXTINF:0,FRANCE 24 FR
+rtmp://stream2.france24.yacast.net/france24_live/fr/f24_livefr
+#EXTINF:0,i24 NEWS
+http://newslux-lh.akamaihd.net/english_1_650@134715?videoId=2552000984001&lineUpId=&pubId=2402232199001&playerId=2551661482001&affiliateId=&bandwidthEstimationTest=true&v=3.1.0&fp=WIN%2011,9,900,170&r=KRBCX&g=IDRRPBCRMVPU
+#EXTINF:0,NDTV 24X7
+rtmp://ndtv.lsops.net/live/ndtv_en_364
+#EXTINF:0,NHK WORLD
+rtmp://ca-1.srv.fivecool.net/nhkw/gwm
+#EXTINF:0,NHK WORLD [2]
+http://nhkworldlive-lh.akamaihd.net/i/nhkworld_w@145835/index_512_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,PRESS TV
+http://media23.lsops.net/live/presstv_en_hls.smil/chunklist_w2066849572_b584000.m3u8
+#EXTINF:0,REUTERS
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
+#EXTINF:0,RT HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/playlist.m3u8
+#EXTINF:0,RT-AMERICA HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/playlist.m3u8
+#EXTINF:0,RTVE 24H
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0,SKY NEWS UK
+mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k
+#EXTINF:0,SKY NEWS INTERNATIONAL
+http://hd2.lsops.net/live/skynewsi_en_372/playlist.m3u8
+#EXTINF:0,SKY TG24
+rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564
+#EXTINF:0,TAGESSCAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_1328_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TAGESSCAU 24 HD
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3712_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,ARTE LIVE
+rtmp://lm01.everyon.tv:1935/ptv/pld35
+#EXTINF:0,1 MUSIC BALTIC
+rtmp://80.232.172.37/rtplive/vlc.sdp
+#EXTINF:0,CAPITAL TV
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
+#EXTINF:0,DELUXE MUSIC TV
+rtmp://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream
+#EXTINF:0,EUROPA PLUS TV
+rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp
+#EXTINF:0,ESKA BEST TV
+rtmp://stream.smcloud.net/live2/best/best_360p
+#EXTINF:0,ESKA BEST TV HD
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:0,ESKA PARTY TV
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
+#EXTINF:0,ESKA PARTY TV HD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0,ESKA ROCK TV
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+#EXTINF:0,ESKA ROCK TV HD
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:0,FIRST MUSIC HD
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:0,FOR MUSIC TV
+rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
+#EXTINF:0,GALARGO DANCE PARADISE
+rtmp://rtmp.galargo.tv/wowzaapp1/1_360p
+#EXTINF:0,GALARGO DANCE PARADISE HD
+rtmp://rtmp.galargo.tv/wowzaapp1/1_720p
+#EXTINF:0,HEART TV
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart
+#EXTINF:0,IPER TV
+mmsh://mediatv2.topix.it/24Ipertv66
+#EXTINF:0,JIM TV
+rtmp://rtmp.jim.stream.vmmacdn.be/vmma-jim-rtmplive-live/jim
+#EXTINF:0,MUSIC BOX
+rtmp://musicbox.cdnvideo.ru/musicbox-live/musicboxtv.sdp
+#EXTINF:0,MUSIC TV
+http://musictvstream.istoikona.net/musictv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,NIGHT-MAG TV
+http://stream.night-mag.com:8002/listen.pls
+#EXTINF:0,OCKO
+rtmp://194.79.52.79/ockoi/ockoHQ2
+#EXTINF:0,PLAY.ME TV
+rtmp://cp107974.live.edgefcs.net/live/beep-flash-live@34654
+#EXTINF:0,Q-MUSIC TV
+rtmp://vmmaeventlivefs.fplive.net/vmmaeventlive-live/vmma.radio-sdh
+#EXTINF:0,Radio 105 TV
+rtmp://fms.105.net:1935/live/105Test1
+#EXTINF:0,Radio Italia TV
+rtmp://cwedge.cdcache.net/cwedge/rilive
+#EXTINF:0,Radio Monte Carlo TV
+rtmp://fms.105.net/live/rmc1
+#EXTINF:0,RETRO TV
+rtmp://91.103.163.202/live/retrotv
+#EXTINF:0,ROCK ONE
+http://mediatv2.topix.it/24RockOne66
+#EXTINF:0,RUSSIAN MUSICBOX
+rtmp://musicbox.cdnvideo.ru/musicbox-live/musicbox.sdp
+#EXTINF:0,SLAGR TV
+http://92.62.224.106:10000
+#EXTINF:0,SLAM TV
+rtmp://82.201.53.52:80/livestream/slamtv
+#EXTINF:0,STREETCLIP TV
+rtmp://stream.streetclip.tv:1935/live/high-stream
+#EXTINF:0,TUBA TV
+rtmp://fms.gazeta.pl/aglive/tuba_tv
+#EXTINF:0,Virgin Radio TV
+rtmp://fms.105.net:1935/live/virgin1
+#EXTINF:0,HARD LIFE
+rtmp://86.62.75.60:1935/live/hardlife
+#EXTINF:0,LIFE TV
+rtmp://video.lifetv.vn/live/Stream1
+#EXTINF:0,MEN'S UP TV
+http://videos.mensup.fr/mensuptv/live/01.m3u8
+#EXTINF:0,OH TV USA
+http://ohtv.live.cdn.bitgravity.com/ohtv/secure/live/ohusa2?e=0&h=48684cf56a34d7d60f1e7a012255a3af
+#EXTINF:0,REDBULL TV
+http://live.iphone.redbull.de.edgesuite.net/webtvHD.m3u8
+#EXTINF:0,TOUR TV
+rtmp://www.planeta-online.tv:1936/live/channel_2
+#EXTINF:0,TWIT TV
+http://bglive-a.bitgravity.com/twit/live/high
+#EXTINF:0,CIELO TV
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:0,RAI 1
+mmsh://212.162.68.163:80/prodtvr1?MSWMExt=.asf
+#EXTINF:0,RAI Gulp
+http://212.162.68.163/Rai_gulp
+#EXTINF:0,RAI Premium
+mmsh://212.162.68.163:80/Rai_Premium
+#EXTINF:0,RAI Scuola
+mmsh://212.162.68.163:80/Rai_Scuola
+#EXTINF:0,RAI Storia
+mmsh://212.162.68.163/rai_storia
+#EXTINF:0,RAI Yoyo
+http://212.162.68.163/Rai_yoyo
+#EXTINF:0,TV OGGI
+http://live.cdnplayer.com:1935/live691/streamlivetvoggi/sansar.m3u8
+#EXTINF:0,AIR TV
+rtmp://stream.air-tv.tv:1935/live/web2.stream
+#EXTINF:0,ARTE
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:0,CANAL+
+rtmp://live-fms.canalplus.fr/live/canalplusclair_1500@42246
+#EXTINF:0,D8
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/02.m3u8
+#EXTINF:0,D17
+http://wm.live.tv-radio.com/bouygues/all/channel9.wmv
+#EXTINF:0,FRANCE 3
+http://wm.live.tv-radio.com/bouygues/all/channel2.wmv
+#EXTINF:0,FRANCE 4
+http://wm.live.tv-radio.com/bouygues/all/channel3.wmv
+#EXTINF:0,FRANCE 5
+http://wm.live.tv-radio.com/bouygues/all/channel4.wmv
+#EXTINF:0,FRANCE O
+http://wm.live.tv-radio.com/bouygues/all/channel5.wmv
+#EXTINF:0,GULLI
+http://vipwowza.yacast.net/gulli_live/_definst_/gulli_850.stream/playlist.m3u8
+#EXTINF:0,I-TELE
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
+#EXTINF:0,LA TELE
+rtsp://rtmp.infomaniak.ch/livecast/latele
+#EXTINF:0,LCI-TF1
+rtmp://cp84002.live.edgefcs.net/live/eTF1-LCI-Flash-Int@15274
+#EXTINF:0,MIRABELLE TV
+rtsp://str81.creacast.com/mirabelletv/medium
+#EXTINF:0,NRJ 12
+rtsp://rtsp-out-b.live.tdf-cdn.com:554/2887_nrj_12_tv_nrj_174257.sdp
+#EXTINF:0,ROUGE TV
+rtsp://rtmp.infomaniak.ch/livecast/rougetv
+#EXTINF:0,TELE BRUXELLES
+rtmp://46.105.119.61:1935/live/live.sdp
+#EXTINF:0,TV5 MONDE EUROPE
+http://rm-edge-3.cdn2.streamago.tv/streamagoedge/1924/817/playlist.m3u8
+#EXTINF:0,VITAMINE TV
+rtsp://rtmp.infomaniak.ch/livecast/vitatv
+#EXTINF:0,WEO
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:0,YVELINES TV
+http://rtmp.infomaniak.ch/livecast/yveline1/hasbahca.m3u8
+#EXTINF:0,13 TV
+http://149.11.34.6:1935/live/13TV.stream/vcx7.m3u8
+#EXTINF:0,EITB SAT
+rtmp://cp70268.live.edgefcs.net/live/eitb-ETBSat@5219
+#EXTINF:0,LA1 TVE
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+#EXTINF:0,TDP TVE
+http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
+#EXTINF:0,3 24
+rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_324_FLV
+#EXTINF:0,OKTO
+rtmp://wss10.atusmedia.net/oktolive/okto-high.stream
+#EXTINF:0,RTL
+rtmp://wowza01.newmedia.lu/channel1/live
+#EXTINF:0,SDF
+http://videocdn.sdf.bz.it/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,KANAL SPORT
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_1000k/playlist.m3u8
+#EXTINF:0,L1
+http://switch.streamgate.nl/cgi-bin/streamswitch?streamid=800&a=.asx
+#EXTINF:0,ALPHA
+http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
+#EXTINF:0,ANT1
+http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
+#EXTINF:0,BOULH
+http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:0,DT
+mmsh://magictvbox.us:200/dt
+#EXTINF:0,E TV
+rtmp://213.16.167.187:1935/live/mpegts_256.stream
+#EXTINF:0,MEGA
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+#EXTINF:0,SKAI
+mmsh://magictvbox.us:200/skai
+#EXTINF:0,ANT1 CYPRUS
+http://videos.ant1.com.cy/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,MEGA CYPRUS
+http://livenews.istoikona.net/livenews.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,MEGA CYPRUS 2
+http://livenews.istoikona.net/livenews.isml/QualityLevels(796000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,SIGMA CYPRUS
+rtmp://217.27.48.131/stream/live
+#EXTINF:0,ACTION 24 ATHENS
+http://206.222.31.146/sport_plus
+#EXTINF:0,ASTRA TV VOLOS
+http://www.astratv.gr:8090/hls/livestream/index.m3u8
+#EXTINF:0,BEST CHANNEL KALAMATA
+http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,BLUE SKY ATHENS
+mmsh://78.47.26.149:8081/blueskytv
+#EXTINF:0,DELTA TV ALEXANDROUPOLH
+http://www.deltatv.gr/live.asx
+#EXTINF:0,DHRAS KOS
+rtmp://www.cityofkos.gr/diras/livetv
+#EXTINF:0,DION TV KATERINI
+http://4.31.30.145:9082
+#EXTINF:0,EXTRA 3 ATHENS
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+#EXTINF:0,IRIDA TV RODOS
+mmsh://212.251.44.111:27030
+#EXTINF:0,KONTRA CHANNEL ATHENS
+rtmp://flashcloud.mediacdn.com/live/kontratv
+#EXTINF:0,KOSMOS TV RODOS
+rtmp://edge.vidblee.com/tvkosmos/mp4:tvkosmos.mp4
+#EXTINF:0,KPHTH TV
+rtmp://live.cretetv.gr/cretetv/myStream
+#EXTINF:0,MESOGEIOS TV KALAMATA
+rtsp://54.246.125.118/mesogeiosTV
+#EXTINF:0,NEA TV CHANIA
+http://srv1.viiideo.gr:1935/hellasonmedia/mp4:neatv/playlist.m3u8
+#EXTINF:0,ORT PYRGOS
+rtmp://media.patrisnews.com:1935/patris/tvstream
+#EXTINF:0,SAMIAKH TV
+rtmp://91.121.107.131/samiaki/samiaki
+#EXTINF:0,STAR TV DRAMAS
+mms://radiofeeds1.mediabox.gr/startv?MSWMExt=.asf
+#EXTINF:0,STAR TV LAMIA
+http://4.31.30.145:9080
+#EXTINF:0,THRAKI NET ALEXANDROUPOLH
+mmsh://golive.onestreaming.com/thrakinet
+#EXTINF:0,TV1 SYROS
+rtmp://159.253.143.17:1935/webcams/msg116s
+#EXTINF:0,TV100 THESSALONIKH
+rtsp://eco.caststream.net/tv100/tv100
+#EXTINF:0,TV4E THESSALONIKI
+rtmp://82.192.84.30:1935/live/myStream.sdp
+#EXTINF:0,ZOUGLA TV ATHENS
+rtmp://cp67108.live.edgefcs.net/live/zouglaradio@15863
+#EXTINF:0,MOTORSPORT
+http://motorsport.hopto.org:8080/
+#EXTINF:0,OUTDOOR CHANNEL
+rtmp://lm02.everyon.tv:1935/ptv2/pld613
+#EXTINF:0,CCTV 9 DOCUMENTARY
+http://88.212.11.206:5000/live/17/17.m3u8
+#EXTINF:0,CCTV NEWS
+http://tv.goweb.com/share/channels/channel/id/448/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
+#EXTINF:0,Extreme Sport
+http://tv.goweb.com/share/channels/channel/id/439/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
+#EXTINF:0,EUROSPORT
+http://tv.goweb.com/share/channels/channel/id/111/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
+#EXTINF:0,EUROSPORT 2
+http://tv.goweb.com/share/channels/channel/id/157/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
+#EXTINF:0,CNN
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+#EXTINF:0,MCM
+http://hls.novotelecom.ru/streaming/mcmtop/tvrec/playlist.m3u8
+#EXTINF:0,MEZZO
+http://hls.novotelecom.ru/streaming/mezzo/tvrec/playlist.m3u8
+#EXTINF:0,FASHION TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:0,ANIMAL PLANET
+http://m24.megafun.vn/live.vs?c=vstv078&q=high
+#EXTINF:0,CARTOON NETWORK
+http://m24.megafun.vn/live.vs?c=vstv031&q=high
+#EXTINF:0,CINEMAX
+http://m24.megafun.vn/live.vs?c=vstv037&q=high
+#EXTINF:0,DISCOVERY CHANNEL
+http://m24.megafun.vn/live.vs?c=vstv044&q=high
+#EXTINF:0,DISNEY
+http://m24.megafun.vn/live.vs?c=vstv032&q=high
+#EXTINF:0,FOX SPORTS
+http://m24.megafun.vn/live.vs?c=vstv042&q=high
+#EXTINF:0,STAR MOVIES
+http://m24.megafun.vn/live.vs?c=vstv038&q=high
+#EXTINF:0,ERA - 1o Programma
+http://radio.ertopen.com/erasport
+#EXTINF:0,ERA - 2o Programma
+http://radio.ertopen.com/ertopendeytero
+#EXTINF:0,ERA - 3o Programma
+http://radio.ertopen.com/trito
+#EXTINF:0,ERA HERAKLION
+http://78.46.106.4:18000/eraheraklion.mp3
+#EXTINF:0,STAR FM 88.4
+mmsh://live.onestreaming.com/star884?MSWMExt=.asf
+#EXTINF:0,PEPPER 96.6
+mms://captainjack.live24.gr/captainjack9660
+#EXTINF:0,RADIO GOLD
+mmsh://radiogold.live24.gr/radiogold?MSWMExt=.asf
+#EXTINF:0,ROCK FM 96.9
+http://91.132.6.21:8003
+#EXTINF:0,ROCK 105.5
+http://1055rock.onweb.gr:8078
+#EXTINF:0,ROCK RADIO 104.7
+http://rockradio.gr:1111
+#EXTINF:0,CITY FM 100
+http://eco.onestreaming.com:8173
+#EXTINF:0,DRS FM 95.3
+http://drs953.live24.gr:80/drs953
+#EXTINF:0,RADIO 984
+http://eco.onestreaming.com:8237/live
+#EXTINF:0,STUDIO FM 1 105.4
+http://fm1.teicrete.gr:8000/live
+#EXTINF:0,KRHTIKOS FM 99.7
+http://50.7.77.114:8401
+#EXTINF:0,MENTA 88.0
+http://oasis.live24.gr:80/oasis8888
+#EXTINF:0,EASY 97.2
+http://easy972.live24.gr:80/easy972
+#EXTINF:0,ATLANTIS 105.2
+http://eco.caststream.net:8046/
+#EXTINF:0,IMAGINE 89.7
+http://imagine.1stepstream.com:8000/live
+#EXTINF:0,VELVET RADIO
+mmsh://live.onestreaming.com/velvetfm?MSWMExt=.asf
+#EXTINF:0,EUROVISION RADIO
+http://eco.onestreaming.com:8346
+#EXTINF:0,creta tv
+rtmp://srv1.viiideo.gr/hellasonmedia/tvcreta
