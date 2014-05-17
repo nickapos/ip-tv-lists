@@ -384,3 +384,5 @@ mmsh://live.onestreaming.com/velvetfm?MSWMExt=.asf
 http://eco.onestreaming.com:8346
 #EXTINF:0,creta tv
 rtmp://srv1.viiideo.gr/hellasonmedia/tvcreta
+#EXTINF:0,twit
+http://bglive-a.bitgravity.com/twit/live/high
