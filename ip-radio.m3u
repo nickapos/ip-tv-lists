@@ -7,3 +7,5 @@ http://atollhdlive-f.akamaihd.net/i/radiokriti_1@8554/index_64_a-p.m3u8?sd=10&re
 http://kissfm.live24.gr:80/kiss2111
 #EXTINF:3,Radio Mires
 http://s6.onweb.gr:8034/;stream.nsv
+#EXTINF:4,CCradio
+http://stream.creativecommons.gr:8000/live0
