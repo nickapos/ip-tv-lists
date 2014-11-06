@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,BBC Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lc1_radio2_p?s=1415266198&e=1415280598&h=c0600274fe879d009025f12071185f86
+#EXTINF:1,BBC Radio 3
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lc1_radio3_q?s=1415266143&e=1415280543&h=c71f4b3734388c0b3b311ca4db54271c
