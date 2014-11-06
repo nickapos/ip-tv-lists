@@ -67,7 +67,7 @@ mmsh://golive.onestreaming.com/thrakinet
 #EXTINF:0,TV1 SYROS
 rtmp://159.253.143.17:1935/webcams/msg116s
 #EXTINF:0,TV100 THESSALONIKH
-rtsp://eco.caststream.net/tv100/tv100
+rtsp://188.226.161.133/TV100/TV100
 #EXTINF:0,TV4E THESSALONIKI
 rtmp://82.192.84.30:1935/live/myStream.sdp
 #EXTINF:0,ZOUGLA TV ATHENS
