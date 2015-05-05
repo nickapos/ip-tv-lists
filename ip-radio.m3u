@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0,Amagi radio
 http://5.9.60.113:8000/stream
-#EXTINF:1,Radio Kriti
-http://atollhdlive-f.akamaihd.net/i/radiokriti_1@8554/index_64_a-p.m3u8?sd=10&rebase=on
+#EXTINF:1,Radio 984
+http://athenshdlive-lh.akamaihd.net/i/athina984fmlive_2@88331/master.m3u8
 #EXTINF:3,Greek Kiss fm
 http://kissfm.live24.gr:80/kiss2111
 #EXTINF:3,Radio Mires
